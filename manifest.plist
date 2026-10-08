@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>6739530834</string>
+				<string>ru.oneme.app</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>26.17.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
